@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e1e2f;   /* background color */
+    font-family: Arial, sans-serif;
+}
+
+.version-text {
+    font-size: 32px;
+    color: #ffffff;            /* text color */
+    background-color: #4f46e5; /* text ka bg */
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
